@@ -1,1 +1,1 @@
-# NGS_scripts
+# NGS-scripts
